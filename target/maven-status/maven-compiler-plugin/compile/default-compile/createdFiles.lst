@@ -1,0 +1,9 @@
+com\example\SirRegLogin\service\UserService.class
+com\example\SirRegLogin\SirRegLoginApplication.class
+com\example\SirRegLogin\repository\UserRepository.class
+com\example\SirRegLogin\config\SecurityConfig.class
+com\example\SirRegLogin\controller\HomeController.class
+com\example\SirRegLogin\service\WebSocketHandler.class
+com\example\SirRegLogin\controller\AuthController.class
+com\example\SirRegLogin\service\CustomUserDetailsService.class
+com\example\SirRegLogin\model\User.class
